@@ -1,0 +1,9 @@
+production:
+  adapter: ibm_db
+  username: lrtdsatn
+  password: suztjv8vviy6
+  database: I_912598
+  host: 23.246.228.240
+  port: 50000
+  url: jdbc:db2://23.246.228.240:50000/I_912598
+  parameterized: true
