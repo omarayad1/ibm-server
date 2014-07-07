@@ -1,7 +1,5 @@
 # A sample Gemfile
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "sinatra"
-gem "activerecord"
-gem "sinatra-activerecord"
-gem "ibm_db"
+gem 'sinatra'
+gem 'ibm_db'
